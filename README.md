@@ -8,7 +8,7 @@ A partir de la base de datos de SuperStore, con ventas diarias de 2011 hasta 201
 
 2. data: carpeta con el dataset de ventas.
 
-3.Presentacion ML Predicción de Ventas.pdf: archivo presentación para la exposición del proyecto.
+3. Presentacion ML Predicción de Ventas.pdf: archivo presentación para la exposición del proyecto.
 
 4. Memoria ML Predicción Ventas.pdf: archivo memoria explicando el proyecto.
 
